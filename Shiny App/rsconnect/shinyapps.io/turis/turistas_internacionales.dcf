@@ -1,0 +1,13 @@
+name: turistas_internacionales
+title: turistas_internacionales
+username:
+account: turis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4250551
+bundleId: 4698867
+url: https://turis.shinyapps.io/turistas_internacionales/
+when: 1623281838.70509
+lastSyncTime: 1623281838.70509
+asMultiple: FALSE
+asStatic: FALSE
